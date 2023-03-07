@@ -2,4 +2,4 @@
 
 ## How to use
 
-$ python3 file-converter.py markdown inputfile outputfile
+$ python3 file-converter.py <input_file_path> <output_path>
